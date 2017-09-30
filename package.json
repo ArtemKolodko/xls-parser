@@ -1,0 +1,17 @@
+{
+  "name": "xls-parser",
+  "version": "1.0.0",
+  "description": "xls-parser",
+  "main": "app.js",
+  "dependencies": {
+    "exceljs": "^0.6.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
